@@ -7,8 +7,11 @@ A game were a player shoots astroids and enemies to gain points. Enemies can fir
 ## Implementation
 
 Implemented Backgounds for Game, Main Menu, and End Game
+
 Implemented Pause Menu
+
 Implemented Screen Adjustment for all assets(Menu, HUD, Main menu, Backgorunds)
+
 Created my own Enemy Sprite 
 
 Timer Added because why not
@@ -22,6 +25,8 @@ https://www.pexels.com/photo/milky-way-galaxy-during-nighttime-1252890/ Image fo
 https://www.pexels.com/photo/starry-sky-998641/ Image for End Background
 
 https://hubblesite.org/contents/media/images/2013/06/3143-Image.html?itemsPerPage=100&Collection=Hubble%2520Heritage&Topic=105-galaxies Image for Game backgound
+
+https://www.youtube.com/watch?v=mdaCDsN1FJ0 Cheat Codes by Nitro Fun
 
 ## References
 None that I am Aware of
