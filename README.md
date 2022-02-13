@@ -2,7 +2,7 @@
 
 Project for MSCH-C220 made 2/12/2022
 
-A game were a player shoots astroids and enemies to gain points. Enemies can fire back. there is limited Time
+A game were a player shoots astroids and enemies to gain points. Enemies can fire back. There is limited time before game over
 
 ## Implementation
 
