@@ -18,7 +18,9 @@ The explosion spritesheet was released into the public domain by [StumpyStrust](
 Assets are provided by [Kenney.nl](https://kenney.nl/assets/space-shooter-extension), provided under a [CC0 1.0 Public Domain License](https://creativecommons.org/publicdomain/zero/1.0/).
 
 https://www.pexels.com/photo/milky-way-galaxy-during-nighttime-1252890/ Image for Main menu Background
+
 https://www.pexels.com/photo/starry-sky-998641/ Image for End Background
+
 https://hubblesite.org/contents/media/images/2013/06/3143-Image.html?itemsPerPage=100&Collection=Hubble%2520Heritage&Topic=105-galaxies Image for Game backgound
 
 ## References
