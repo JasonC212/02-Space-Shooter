@@ -1,4 +1,4 @@
-[gd_scene load_steps=8 format=2]
+[gd_scene load_steps=9 format=2]
 
 [ext_resource path="res://Player/Player Container.gd" type="Script" id=1]
 [ext_resource path="res://Asteroid/Asteroid_Container.gd" type="Script" id=2]
@@ -6,6 +6,7 @@
 [ext_resource path="res://UI/HUD.gd" type="Script" id=4]
 [ext_resource path="res://UI/Menu.gd" type="Script" id=5]
 [ext_resource path="res://Assets/M106.jpg" type="Texture" id=6]
+[ext_resource path="res://Assets/[Electro] Nitro Fun - Cheat Codes [Monstercat Release] - You.mp3" type="AudioStream" id=7]
 
 [sub_resource type="CanvasItemMaterial" id=1]
 
@@ -139,6 +140,10 @@ text = "Quit?"
 __meta__ = {
 "_edit_use_anchors_": true
 }
+
+[node name="AudioStreamPlayer" type="AudioStreamPlayer" parent="."]
+stream = ExtResource( 7 )
+autoplay = true
 
 [connection signal="timeout" from="UI/HUD/Timer" to="UI/HUD" method="_on_Timer_timeout"]
 [connection signal="pressed" from="UI/Menu/Restart" to="UI/Menu" method="_on_Restart_pressed"]
